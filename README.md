@@ -1,67 +1,82 @@
-# Hi there, I'm Jayan Gupta 👋
+# Jayan Gupta
 
-I'm a passionate **Data Scientist** who loves solving complex problems with data-driven solutions. With hands-on experience in machine learning, deep learning, and financial analytics, I enjoy building AI-powered systems that make a real impact. 🚀
-
----
-
-## 🎓 Education  
-- Pursuing **Bachelor of Technology**  
-  Dr. Akhilesh Das Gupta Institute of Professional Studies (2021 - Present)
+I am a dedicated **Data Scientist** with a strong passion for solving complex problems through data-driven solutions. With extensive hands-on experience in machine learning, deep learning, and financial analytics, I specialize in building AI-powered systems that deliver real-world impact.
 
 ---
 
-## 💼 Experience  
+## Education
 
-### GeeksforGeeks - Data Science Intern (Mar 2025 - Present)  
-- Developed **Yogi Bot**, an AI assistant 🤖 for real-time code debugging using Retrieval-Augmented Generation (RAG) and multi-agent AI.  
-- Integrated OpenAI API, GitHub Copilot & Google Search to enhance developer experience.  
-
-### Defence Research and Development Organisation (DRDO) - Data Scientist Intern (Feb 2025 - Mar 2025)  
-- Built AI models for CBRN threat detection to improve national security 🛡️.  
-- Led research on anomaly detection and multi-source data integration for risk mitigation.  
-
-### Maxizo Trading LLP - Data Science Intern (Sep 2024 - Feb 2025)  
-- Developed financial forecasting models using **SARIMAX, LSTM, and FinBERT** 📈.  
-- Conducted Exploratory Data Analysis (EDA) to identify trends & optimize risk assessment.
+**Bachelor of Technology**
+Dr. Akhilesh Das Gupta Institute of Professional Studies (2021 – 2025)
 
 ---
 
-## 🛠️ Technical Skills  
-- **Languages:** Python, SQL, R  
-- **Machine Learning & AI:** Deep Learning, Neural Networks, NLP, Time Series Analysis (SARIMAX, LSTM, FinBERT)  
-- **Libraries:** Pandas, NumPy, TensorFlow, Keras, Scikit-learn, XGBoost, Statsmodels, NLTK, OpenCV, Plotly  
-- **Tools:** Jupyter Notebook, Hadoop, Apache Spark, Kafka, BigQuery, PowerBI, Langchain  
-- **Soft Skills:** Leadership, Problem-solving, Communication, Critical Thinking
+## Experience
+
+**GeeksforGeeks — Data Science Intern**
+*March 2025 – Present*
+
+* Developed **Yogi Bot**, an AI assistant for real-time code debugging using Retrieval-Augmented Generation (RAG) and multi-agent AI systems.
+* Integrated OpenAI API, GitHub Copilot, and Google Search to enhance developer productivity and code accuracy.
+
+**Defence Research and Development Organisation (DRDO) — Data Scientist Intern**
+*February 2025 – March 2025*
+
+* Built AI models for Chemical, Biological, Radiological, and Nuclear (CBRN) threat detection to strengthen national security measures.
+* Led research on anomaly detection and multi-source data integration for advanced risk mitigation.
+
+**Maxizo Trading LLP — Data Science Intern**
+*September 2024 – February 2025*
+
+* Developed financial forecasting models using **SARIMAX, LSTM, and FinBERT** to improve accuracy in market predictions.
+* Performed comprehensive exploratory data analysis (EDA) to uncover financial trends and enhance risk assessment strategies.
 
 ---
 
-## 🚀 Notable Projects  
+## Technical Skills
 
-### ML-Integrated Portable ECG Machine  
-- Created a **real-time AI-powered ECG classification system** ❤️‍🩹 using CNN and hardware integration with Raspberry Pi Zero & AD8232 ECG sensor.  
-- Enhanced diagnostic accuracy and accessibility for remote healthcare.
-
-### Anti-Money Laundering Analysis  
-- Built ML models using **XGBoost** to detect suspicious financial activities 💰.  
-- Developed interactive dashboards for pattern recognition and risk monitoring.
-
-### Financial Market Analysis  
-- Designed time series forecasting and portfolio optimization models using neural networks 📊.  
-- Improved investment strategies and risk assessments for better decision-making.
+**Languages:** Python, SQL, R
+**Machine Learning & AI:** Deep Learning, Neural Networks, Natural Language Processing, Time Series Analysis (SARIMAX, LSTM, FinBERT)
+**Libraries:** Pandas, NumPy, TensorFlow, Keras, Scikit-learn, XGBoost, Statsmodels, NLTK, OpenCV, Plotly
+**Tools:** Jupyter Notebook, Hadoop, Apache Spark, Kafka, BigQuery, PowerBI, LangChain
+**Soft Skills:** Leadership, Problem-Solving, Communication, Critical Thinking
 
 ---
 
-## 🏆 Achievements  
-- 🥇 Winner, GeeksforGeeks Hackfest 2024 (Regional & Grand Finale)  
-- 🥇 First Place, Technorax v9.0 Hackathon for innovative ML-based medical device  
-- 🎓 Certified by GeeksforGeeks and Google in Machine Learning and Data Science  
+## Notable Projects
+
+**ML-Integrated Portable ECG Machine**
+
+* Designed a real-time AI-powered ECG classification system using a convolutional neural network (CNN) combined with Raspberry Pi Zero and an AD8232 ECG sensor.
+* Improved diagnostic accuracy and accessibility, particularly for remote healthcare applications.
+
+**Anti-Money Laundering Analysis**
+
+* Built machine learning models using XGBoost to detect suspicious financial activities.
+* Developed interactive dashboards to monitor patterns and identify high-risk transactions effectively.
+
+**Financial Market Analysis**
+
+* Designed and implemented time series forecasting and portfolio optimization models using advanced neural networks.
+* Enhanced investment strategy development and risk assessment for data-driven decision-making.
 
 ---
 
-## 📫 Let's Connect!  
-- **LinkedIn**: [linkedin.com/in/jayan-gupta](https://linkedin.com/in/jayan-gupta)
-- **GitHub**: [github.com/JayanGupta](https://github.com/JayanGupta)
-- **Email**: jayangupta455@gmail.com
-- **Location**: New Delhi, India
+## Achievements
 
-- Thanks for stopping by! Feel free to explore my projects and get in touch. 😊
+* Winner, GeeksforGeeks Hackfest 2024 (Regional and Grand Finale)
+* First Place, Technorax v9.0 Hackathon for developing an innovative ML-based medical device
+* Certified in Machine Learning and Data Science by GeeksforGeeks and Google
+
+---
+
+## Contact
+
+**LinkedIn:** [linkedin.com/in/jayan-gupta](https://linkedin.com/in/jayan-gupta)
+**GitHub:** [github.com/JayanGupta](https://github.com/JayanGupta)
+**Email:** [jayangupta455@gmail.com](mailto:jayangupta455@gmail.com)
+**Location:** New Delhi, India
+
+---
+
+Thank you for visiting my profile. I welcome you to explore my projects and connect with me for collaboration or opportunities.
