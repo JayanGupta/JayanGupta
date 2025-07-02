@@ -13,11 +13,20 @@ Guru Gobind Singh Indraprastha University (2021 - 2025)
 
 ## Technical Skills
 
-**Languages:** Python, SQL, R
-**Machine Learning & AI:** Deep Learning, Neural Networks, Natural Language Processing, Time Series Analysis (SARIMAX, LSTM, FinBERT)
-**Libraries:** Pandas, NumPy, TensorFlow, Keras, Scikit-learn, XGBoost, Statsmodels, NLTK, OpenCV, Plotly
-**Tools:** Jupyter Notebook, Hadoop, Apache Spark, Kafka, BigQuery, PowerBI, LangChain
-**Soft Skills:** Leadership, Problem-Solving, Communication, Critical Thinking
+**Languages:**  
+- Python, SQL, R  
+
+**Machine Learning & AI:**  
+- Deep Learning, Neural Networks, Natural Language Processing, Time Series Analysis (SARIMAX, LSTM, FinBERT)
+
+**Libraries:**  
+- Pandas, NumPy, TensorFlow, Keras, Scikit-learn, XGBoost, Statsmodels, NLTK, OpenCV, Plotly
+
+**Tools:**  
+- Jupyter Notebook, Hadoop, Apache Spark, Kafka, BigQuery, PowerBI, LangChain
+
+**Soft Skills:**  
+- Leadership, Problem-Solving, Communication, Critical Thinking
 
 ---
 
