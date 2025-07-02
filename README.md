@@ -26,7 +26,7 @@ Guru Gobind Singh Indraprastha University (2021 - 2025)
 - Jupyter Notebook, Hadoop, Apache Spark, Kafka, BigQuery, PowerBI, LangChain
 
 **Soft Skills:**  
-- Leadership, Problem-Solving, Communication, Critical Thinking
+- Leadership, Problem-Solving, Communication, Critical Thinking, Colaboration
 
 ---
 
