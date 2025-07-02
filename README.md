@@ -1,6 +1,6 @@
 # Jayan Gupta
 
-I am a dedicated **Data Scientist** with a strong passion for solving complex problems through data-driven solutions. With extensive hands-on experience in machine learning, deep learning, and financial analytics, I specialize in building AI-powered systems that deliver real-world impact.
+Passionate Data Scientist with a strong background in machine learning, deep learning and NLP. Eager to contribute my analytical skills and knowledge in AI to help organizations make data-driven decisions. Seeking a challenging role in data science to further my expertise in predictive modeling and big data analytics.
 
 ---
 
