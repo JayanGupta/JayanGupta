@@ -7,7 +7,7 @@ I am a dedicated **Data Scientist** with a strong passion for solving complex pr
 ## Education
 
 **Bachelor of Technology**
-Dr. Akhilesh Das Gupta Institute of Professional Studies (2021 – 2025)
+Guru Gobind Singh Indraprastha University (2021 - 2025)
 
 ---
 
