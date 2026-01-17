@@ -44,7 +44,7 @@ Guru Gobind Singh Indraprastha University *(2021 - 2025)*
 
 ---
 
-### **Defence Research and Development Organisation (DRDO) — Data Scientist Intern**  
+### **Defence Research and Development Organisation (DRDO) — Data Scientist**  
 *February 2025 – March 2025*
 
 - Built AI models for **Chemical, Biological, Radiological, and Nuclear (CBRN)** threat detection to strengthen national security measures.  
@@ -52,7 +52,7 @@ Guru Gobind Singh Indraprastha University *(2021 - 2025)*
 
 ---
 
-### **Maxizo Trading LLP — Data Science Intern**  
+### **Maxizo Trading LLP — Data Science**  
 *September 2024 – February 2025*
 
 - Developed financial forecasting models using **SARIMAX, LSTM, and FinBERT** to improve accuracy in market predictions.  
@@ -60,7 +60,7 @@ Guru Gobind Singh Indraprastha University *(2021 - 2025)*
 
 ---
 
-## 🚀 Notable Projects
+## Notable Projects
 
 ### **ML-Integrated Portable ECG Machine**
 - Designed a **real-time AI-powered ECG classification system** using a **Convolutional Neural Network (CNN)** combined with **Raspberry Pi Zero** and an **AD8232 ECG sensor**.  
