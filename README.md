@@ -9,7 +9,7 @@ Seeking a challenging role in **Data Science** to further my expertise in predic
 ## 🎓 Education
 
 **Bachelor of Technology**  
-Guru Gobind Singh Indraprastha University *(2021 - 2025)*
+Guru Gobind Singh Indraprastha University
 
 ---
 
