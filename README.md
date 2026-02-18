@@ -12,6 +12,8 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/tidyverse-%231a162d.svg?style=for-the-badge&logo=tidyverse&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Experimental_Design-blue?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
