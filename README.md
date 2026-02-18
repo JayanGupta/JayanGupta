@@ -12,7 +12,6 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🤖 Machine Learning & Deep Learning
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -53,13 +52,13 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 * **Streamlined operational efficiency** by automating complex data workflows and optimizing model inference cycles, reducing manual overhead and platform latency.
 * **Mentored a community of 5,000+ aspiring engineers**, supervising high-impact AI/ML projects and conducting technical deep-dives into industry-standard practices.
 
-### **Data Science Intern** | [DRDO](https://drdo.gov.in)
+### **Data Science Intern** | [Defence Research and Development Organisation](https://drdo.gov.in)
 *February 2025 – March 2025*
 * **Spearheaded the design of mission-critical ML models** for **CBRN (Chemical, Biological, Radiological, Nuclear)** threat detection, augmenting national security defense protocols.
 * **Synthesized multi-source sensor data** through advanced **Data Fusion** techniques and **Anomaly Detection**, enabling high-fidelity situational awareness and real-time risk mitigation.
 * **Developed predictive analytics modules** that improved response-time benchmarks for identifying radiological and chemical deviations.
 
-### **Data Science Intern** | Maxizo Trading LLP
+### **Data Science Intern** | [Maxizo Trading LLP](https://maxizotrading.com/)
 *September 2024 – February 2025*
 * **Developed quantitative forecasting systems** using **SARIMAX**, **LSTM**, and **FinBERT**, integrating market sentiment analysis to predict high-volatility financial trends.
 * **Architected end-to-end EDA and deployment pipelines** that empowered stakeholders with data-backed insights, leading to a measurable increase in investment decision accuracy.
