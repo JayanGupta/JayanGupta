@@ -72,10 +72,6 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 *Advanced ML Blueprinting & Explainable AI*
 - A specialized framework designed for the construction of **End-to-End ML Pipelines**. It focuses on modular architecture design, hyperparameter optimization, and **Explainable AI (XAI)** to ensure model transparency in sensitive domains.
 
-### 🔮 **Visual Alchemy**
-*Deep Learning Vision Engine*
-- A comprehensive suite for **Visual Analytics**, leveraging **OpenCV** and custom **CNN architectures**. Designed for high-accuracy image processing, object detection, and feature extraction in real-world environments.
-
 ### 🩺 **ML-Integrated Portable ECG**
 *Embedded Healthcare Intelligence*
 - Developed a real-time cardiac diagnostic system deployed on **Raspberry Pi Zero**. By integrating a **CNN classification model**, this project brings laboratory-grade diagnostic accuracy to remote, underserved regions.
