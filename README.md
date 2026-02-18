@@ -1,101 +1,103 @@
-# Jayan Gupta
+# Jayan Gupta | Data Scientist & AI Engineer 🚀
 
-Passionate Data Scientist with a strong background in **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**.  
-Eager to contribute my analytical skills and AI knowledge to help organizations make data-driven decisions.  
-Seeking a challenging role in **Data Science** to further my expertise in predictive modeling and big data analytics.
+### "Transforming high-dimensional data into scalable AI solutions for Defense, Finance, and the GenAI Frontier."
 
----
-
-## 🎓 Education
-
-**Bachelor of Technology**  
-Guru Gobind Singh Indraprastha University
+A results-driven Data Scientist specializing in the end-to-end lifecycle of machine learning—from raw data orchestration to high-performance model deployment. My expertise spans building **LLM-powered architectures** for education, **predictive defense systems** for national security systems, and **quantitative frameworks** for financial markets. I bridge the gap between complex mathematical theory and production-ready AI solutions.
 
 ---
 
-## 💻 Technical Skills
+## 🛠 Technical Ecosystem
 
-**Languages:**  
-- Python, SQL, R  
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Machine Learning & AI:**  
-- Deep Learning, Neural Networks, Natural Language Processing, Time Series Analysis (SARIMAX, LSTM, FinBERT)
+### 🤖 Machine Learning & Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Libraries:**  
-- Pandas, NumPy, TensorFlow, Keras, Scikit-learn, XGBoost, Statsmodels, NLTK, OpenCV, Plotly
+### ⛓️ GenAI & LLM Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-lightgrey?style=for-the-badge)
 
-**Tools:**  
-- Jupyter Notebook, Hadoop, Apache Spark, Kafka, BigQuery, PowerBI, LangChain
+### 📊 Data Engineering & Analytics
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Soft Skills:**  
-- Leadership, Problem-Solving, Communication, Critical Thinking, Collaboration
+### 🧪 MLOps & Statistics
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### **GeeksforGeeks — Member of Technical Staff – Data Science (Full-Time, Promoted from Intern)**  
+### **Member of Technical Staff – Data Science** | [GeeksforGeeks](https://geeksforgeeks.org)
 *March 2025 – Present*
+* **Orchestrated an AI-based Roadmap Generator** using **LangChain** and **Gemini API**, leveraging semantic vector search to provide hyper-personalized learning trajectories for over **5,000+ students**.
+* **Engineered a production-grade RAG pipeline** utilizing **HuggingFace Embeddings** and **ChromaDB**, significantly enhancing the contextual accuracy of content recommendations.
+* **Streamlined operational efficiency** by automating complex data workflows and optimizing model inference cycles, reducing manual overhead and platform latency.
+* **Mentored a community of 5,000+ aspiring engineers**, supervising high-impact AI/ML projects and conducting technical deep-dives into industry-standard practices.
 
-- Led development of an **AI-based Roadmap Generator** using **LangChain**, **Gemini API**, and **semantic vector search** for personalized learning paths.  
-- Built a **Retrieval-Augmented Generation (RAG)** pipeline with **HuggingFace Embeddings** and **ChromaDB** for contextual content recommendations.  
-- Mentored **5000+ students and interns**, conducting sessions and supervising **AI/ML projects**.  
-- Collaborated on **AI tool integration**, **model optimization**, and **data workflow automation** to enhance platform efficiency.
-
----
-
-### **Defence Research and Development Organisation (DRDO) — Data Scientist**  
+### **Data Science Intern** | [DRDO](https://drdo.gov.in)
 *February 2025 – March 2025*
+* **Spearheaded the design of mission-critical ML models** for **CBRN (Chemical, Biological, Radiological, Nuclear)** threat detection, augmenting national security defense protocols.
+* **Synthesized multi-source sensor data** through advanced **Data Fusion** techniques and **Anomaly Detection**, enabling high-fidelity situational awareness and real-time risk mitigation.
+* **Developed predictive analytics modules** that improved response-time benchmarks for identifying radiological and chemical deviations.
 
-- Built AI models for **Chemical, Biological, Radiological, and Nuclear (CBRN)** threat detection to strengthen national security measures.  
-- Led research on **anomaly detection** and **multi-source data integration** for advanced risk mitigation.
-
----
-
-### **Maxizo Trading LLP — Data Science**  
+### **Data Science Intern** | Maxizo Trading LLP
 *September 2024 – February 2025*
-
-- Developed financial forecasting models using **SARIMAX, LSTM, and FinBERT** to improve accuracy in market predictions.  
-- Performed comprehensive **exploratory data analysis (EDA)** to uncover financial trends and enhance risk assessment strategies.
-
----
-
-## Notable Projects
-
-### **ML-Integrated Portable ECG Machine**
-- Designed a **real-time AI-powered ECG classification system** using a **Convolutional Neural Network (CNN)** combined with **Raspberry Pi Zero** and an **AD8232 ECG sensor**.  
-- Improved diagnostic accuracy and accessibility, particularly for remote healthcare applications.
+* **Developed quantitative forecasting systems** using **SARIMAX**, **LSTM**, and **FinBERT**, integrating market sentiment analysis to predict high-volatility financial trends.
+* **Architected end-to-end EDA and deployment pipelines** that empowered stakeholders with data-backed insights, leading to a measurable increase in investment decision accuracy.
+* **Optimized feature engineering processes** for time-series data, improving the signal-to-noise ratio in financial predictive modeling.
 
 ---
 
-### **Anti-Money Laundering Analysis**
-- Built machine learning models using **XGBoost** to detect suspicious financial activities.  
-- Developed **interactive dashboards** to monitor patterns and identify high-risk transactions effectively.
+## 🏗️ Notable Projects
 
----
+### 🏛️ **AlgoArchitect**
+*Advanced ML Blueprinting & Explainable AI*
+- A specialized framework designed for the construction of **End-to-End ML Pipelines**. It focuses on modular architecture design, hyperparameter optimization, and **Explainable AI (XAI)** to ensure model transparency in sensitive domains.
 
-### **Financial Market Analysis**
-- Designed and implemented **time series forecasting** and **portfolio optimization models** using advanced neural networks.  
-- Enhanced **investment strategy development** and **risk assessment** for data-driven decision-making.
+### 🔮 **Visual Alchemy**
+*Deep Learning Vision Engine*
+- A comprehensive suite for **Visual Analytics**, leveraging **OpenCV** and custom **CNN architectures**. Designed for high-accuracy image processing, object detection, and feature extraction in real-world environments.
+
+### 🩺 **ML-Integrated Portable ECG**
+*Embedded Healthcare Intelligence*
+- Developed a real-time cardiac diagnostic system deployed on **Raspberry Pi Zero**. By integrating a **CNN classification model**, this project brings laboratory-grade diagnostic accuracy to remote, underserved regions.
+
+### 🛡️ **Anti-Money Laundering (AML) Suite**
+*Financial Integrity & Fraud Detection*
+- Engineered a robust fraud detection engine utilizing **XGBoost** to identify complex financial crime patterns. Includes **interactive Power BI dashboards** for real-time monitoring and high-risk transaction reporting.
 
 ---
 
 ## 🏆 Achievements
-
-- 🥇 **Winner**, GeeksforGeeks Hackfest 2024 (Regional and Grand Finale)  
-- 🥇 **First Place**, Technorax v9.0 Hackathon – ML-based medical device innovation  
-- 🎓 **Certified** in Machine Learning and Data Science by **GeeksforGeeks** and **Google**
-
----
-
-## 📫 Contact
-
-**LinkedIn:** [linkedin.com/in/jayan-gupta](https://linkedin.com/in/jayan-gupta)  
-**GitHub:** [github.com/JayanGupta](https://github.com/JayanGupta)  
-**Email:** [jayangupta455@gmail.com](mailto:jayangupta455@gmail.com)  
-**Location:** New Delhi, India
+* 🥇 **Grand Finale Winner** – GeeksforGeeks Hackfest 2024
+* 🥇 **First Place** – Technorax v9.0 Hackathon (ML-based Medical Innovation)
+* 🎓 **Google Certified** Professional Data Scientist
 
 ---
 
-Thank you for visiting my profile!  
-Feel free to explore my projects and connect for collaboration or opportunities. 🚀
+## 📫 Contact & Collaboration
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayan-gupta)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayanGupta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayangupta455@gmail.com)
+
+---
+*“Building intelligence that solves real-world problems at scale.”*
