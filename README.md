@@ -83,9 +83,8 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 ---
 
 ## 🏆 Achievements
-* 🥇 **Grand Finale Winner** – GeeksforGeeks Hackfest 2024
-* 🥇 **First Place** – Technorax v9.0 Hackathon (ML-based Medical Innovation)
-* 🎓 **Google Certified** Professional Data Scientist
+* 🥇 **Hackathon Winner** – Aced 15+ Hackathons by developing solutions to real world problem
+* 🎓 **8+ Google Certified** Professional Data Scientist
 
 ---
 
