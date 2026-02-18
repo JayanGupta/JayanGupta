@@ -6,43 +6,43 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 
 ---
 
-## 🛠 Technical Ecosystem
+## 🛠 Technical Expertise
 
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-Experimental_Design-blue?style=for-the-badge&logo=rstudio&logoColor=white)
+### 💻 Languages and Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badgeandlogo=pythonandlogoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badgeandlogo=postgresqlandlogoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badgeandlogo=randlogoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Experimental_Design-blue?style=for-the-badgeandlogo=rstudioandlogoColor=white)
 
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/tidyverse-%231a162d.svg?style=for-the-badge&logo=tidyverse&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📊 Data Science and Analytics
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badgeandlogo=pandasandlogoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badgeandlogo=numpyandlogoColor=white)
+![Tidyverse](https://img.shields.io/badge/tidyverse-%231a162d.svg?style=for-the-badgeandlogo=tidyverseandlogoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badgeandlogo=apachesparkandlogoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badgeandlogo=apachekafkaandlogoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badgeandlogo=googlecloudandlogoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badgeandlogo=powerbiandlogoColor=black)
 
-### 🤖 Machine Learning & Deep Learning
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### 🤖 Machine Learning and Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badgeandlogo=scikit-learnandlogoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badgeandlogo=TensorFlowandlogoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badgeandlogo=KerasandlogoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badgeandlogo=PyTorchandlogoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badgeandlogo=opencvandlogoColor=white)
 
-### ⛓️ GenAI & LLM Orchestration
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+### ⛓️ GenAI and LLM Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badgeandlogo=chainlinkandlogoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badgeandlogo=googlegeminiandlogoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-lightgrey?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge)
 
 ### 🧪 MLOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badgeandlogo=gitandlogoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badgeandlogo=dockerandlogoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badgeandlogo=mlflowandlogoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badgeandlogo=fastapi)
 
 ---
 
@@ -72,17 +72,17 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 ## 🏗️ Notable Projects
 
 ### 🏛️ **AlgoArchitect** | [AlgoArchitect](https://algoarchitect.onrender.com/)
-*Universal Code Visualizer & AI Masterclass Engine*
+*Universal Code Visualizer and AI Masterclass Engine*
 - **The Innovation:** Engineered an intelligent development tool that bridges the gap between abstract logic and visual understanding by transforming static code into **interactive, animated React applications**.
 - **Neural Integration:** Leverages **Google Gemini** for deep semantic analysis of code (Python, JS, C++, Go) to map execution flows and state transitions into dynamic visual storytelling.
-- **Architecture:** Developed a decoupled **FastAPI & React** architecture deployed via **Vercel**, enabling real-time parsing and masterclass-style breakdowns of complex data structures and recursive logic.
+- **Architecture:** Developed a decoupled **FastAPI and React** architecture deployed via **Vercel**, enabling real-time parsing and masterclass-style breakdowns of complex data structures and recursive logic.
 
 ### 🩺 **ML-Integrated Portable ECG**
 *Embedded Healthcare Intelligence*
 - Developed a real-time cardiac diagnostic system deployed on **Raspberry Pi Zero**. By integrating a **CNN classification model**, this project brings laboratory-grade diagnostic accuracy to remote, underserved regions.
 
 ### 🛡️ **Anti-Money Laundering (AML) Suite**
-*Financial Integrity & Fraud Detection*
+*Financial Integrity and Fraud Detection*
 - Engineered a robust fraud detection engine utilizing **XGBoost** to identify complex financial crime patterns. Includes **interactive Power BI dashboards** for real-time monitoring and high-risk transaction reporting.
 
 ---
@@ -93,10 +93,10 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 
 ---
 
-## 📫 Contact & Collaboration
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayan-gupta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayanGupta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayangupta455@gmail.com)
+## 📫 Contact and Collaboration
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgeandlogo=linkedinandlogoColor=white)](https://linkedin.com/in/jayan-gupta)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badgeandlogo=githubandlogoColor=white)](https://github.com/JayanGupta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badgeandlogo=gmailandlogoColor=white)](mailto:jayangupta455@gmail.com)
 
 ---
 *“Building intelligence that solves real-world problems at scale.”*
