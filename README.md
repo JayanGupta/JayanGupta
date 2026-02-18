@@ -68,7 +68,7 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 
 ## 🏗️ Notable Projects
 
-### 🏛️ **AlgoArchitect** [AlgoArchitect](https://algoarchitect.onrender.com/)
+### 🏛️ **AlgoArchitect** | [AlgoArchitect](https://algoarchitect.onrender.com/)
 *Advanced ML Blueprinting & Explainable AI*
 - A specialized framework designed for the construction of **End-to-End ML Pipelines**. It focuses on modular architecture design, hyperparameter optimization, and **Explainable AI (XAI)** to ensure model transparency in sensitive domains.
 
