@@ -1,4 +1,4 @@
-# Jayan Gupta | Data Scientist & AI Engineer 🚀
+# Jayan Gupta | Data Scientist and Artifical Intelligence Expert
 
 ### "Transforming high-dimensional data into scalable AI solutions for Defense, Finance, and the GenAI Frontier."
 
