@@ -72,8 +72,10 @@ A results-driven Data Scientist specializing in the end-to-end lifecycle of mach
 ## 🏗️ Notable Projects
 
 ### 🏛️ **AlgoArchitect** | [AlgoArchitect](https://algoarchitect.onrender.com/)
-*Advanced ML Blueprinting & Explainable AI*
-- A specialized framework designed for the construction of **End-to-End ML Pipelines**. It focuses on modular architecture design, hyperparameter optimization, and **Explainable AI (XAI)** to ensure model transparency in sensitive domains.
+*Universal Code Visualizer & AI Masterclass Engine*
+- **The Innovation:** Engineered an intelligent development tool that bridges the gap between abstract logic and visual understanding by transforming static code into **interactive, animated React applications**.
+- **Neural Integration:** Leverages **Google Gemini** for deep semantic analysis of code (Python, JS, C++, Go) to map execution flows and state transitions into dynamic visual storytelling.
+- **Architecture:** Developed a decoupled **FastAPI & React** architecture deployed via **Vercel**, enabling real-time parsing and masterclass-style breakdowns of complex data structures and recursive logic.
 
 ### 🩺 **ML-Integrated Portable ECG**
 *Embedded Healthcare Intelligence*
