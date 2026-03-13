@@ -1,6 +1,6 @@
 # Hi, I'm Jayan Gupta 👋
 
-### *Transforming high-dimensional data into scalable AI solutions for Defense, Finance, and the GenAI Frontier.*
+### *Transforming high-dimensional data into scalable AI Solutions.*
 
 A results-driven Data Scientist specializing in the **end-to-end ML lifecycle** — from raw data orchestration to high-performance model deployment. My work spans LLM-powered architectures for education, predictive defense systems for national security, and quantitative frameworks for financial markets.
 
