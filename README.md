@@ -167,7 +167,7 @@ A results-driven Data Scientist specializing in the **end-to-end ML lifecycle** 
 
 | 🥇 Hackathon Winner | Won 15+ hackathons building real-world solutions |
 |---|---|
-| 🎓 Google Certified | 8+ Google Professional Data Science certifications |
+| 🎓 Google Certified | 15+ Google Professional Data Science certifications |
 
 ---
 
