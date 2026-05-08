@@ -106,7 +106,7 @@ A results-driven Data Scientist specializing in the **end-to-end ML lifecycle** 
 ### Member of Technical Staff – Data Science | [GeeksforGeeks](https://geeksforgeeks.org)
 `March 2025 – Present`
 
-- **AI Roadmap Generator** — Orchestrated a LangChain + Gemini API pipeline using semantic vector search to deliver hyper-personalized learning trajectories for **5,000+ students**.
+- **AI Roadmap Generator** — Orchestrated a LangChain + Gemini API pipeline using semantic vector search to deliver hyper-personalized learning trajectories for **12,000+ students**.
 - **Production RAG Pipeline** — Engineered a retrieval-augmented generation system with HuggingFace Embeddings and ChromaDB, significantly improving contextual accuracy of content recommendations.
 - **Workflow Automation** — Streamlined data pipelines and model inference cycles, reducing manual overhead and platform latency.
 - **Technical Mentorship** — Supervised high-impact AI/ML projects and led deep-dives into industry-standard MLOps practices for a community of 5,000+ engineers.
@@ -150,16 +150,6 @@ A results-driven Data Scientist specializing in the **end-to-end ML lifecycle** 
 
 - **Model:** CNN classifier trained on ECG waveforms for automated arrhythmia detection.
 - **Impact:** Edge deployment removes dependency on hospital infrastructure for preliminary cardiac screening.
-
----
-
-### 🛡️ Anti-Money Laundering (AML) Suite
-*Financial Crime Detection Engine*
-
-> XGBoost-powered fraud detection engine with interactive Power BI dashboards for real-time transaction monitoring.
-
-- **Models:** Ensemble classifiers for identifying complex layering, structuring, and smurfing patterns.
-- **Reporting:** High-risk transaction flagging pipeline with actionable Power BI dashboards for compliance teams.
 
 ---
 
