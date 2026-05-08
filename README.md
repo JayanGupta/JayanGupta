@@ -92,7 +92,7 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 # 💼 Professional Experience
 
-## Member of Technical Staff – Data Science | GeeksforGeeks
+## Member of Technical Staff – Data Science | [GeeksforGeeks](https://www.geeksforgeeks.org/)
 `March 2025 – Present`
 
 - Built an AI Roadmap Generator using LangChain, Gemini API, and semantic retrieval pipelines for 12,000+ learners.
@@ -102,7 +102,7 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 ---
 
-## Data Scientist | DRDO – Defence Research and Development Organisation
+## Data Scientist | [DRDO – Defence Research and Development Organisation](https://www.drdo.gov.in/)
 `February 2025 – March 2025`
 
 - Developed machine learning systems for Chemical, Biological, Radiological, and Nuclear (CBRN) threat detection.
@@ -111,7 +111,7 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 ---
 
-## Data Scientist | Maxizo Trading LLP
+## Data Scientist | [Maxizo Trading LLP](https://maxizotrading.com/)
 `September 2024 – February 2025`
 
 - Developed financial forecasting systems using SARIMAX, LSTM, and FinBERT models.
@@ -122,7 +122,7 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 # 🚀 Featured Projects
 
-## ⚙️ AlgoArchitect
+## [AlgoArchitect](https://algoarchitect.onrender.com/)
 ### Universal Code Visualizer & AI Learning Engine
 
 Transforms source code into interactive visual explanations and AI-generated learning experiences.
@@ -136,9 +136,12 @@ Transforms source code into interactive visual explanations and AI-generated lea
 ### Tech Stack
 `FastAPI` • `React` • `Gemini API` • `Python` • `LLMs`
 
+### Links
+- 🌐 Live Demo: https://algoarchitect.onrender.com/
+
 ---
 
-## 🩺 ML-Integrated Portable ECG
+## ML-Integrated Portable ECG
 ### Edge AI Healthcare System
 
 Real-time ECG analysis and arrhythmia detection system deployed on Raspberry Pi hardware.
@@ -153,7 +156,7 @@ Real-time ECG analysis and arrhythmia detection system deployed on Raspberry Pi 
 
 ---
 
-## 🛡️ Anti-Money Laundering (AML) Detection System
+## Anti-Money Laundering (AML) Detection System
 ### Financial Anomaly Detection using Machine Learning
 
 Machine learning pipeline for identifying suspicious financial transaction patterns associated with money laundering activities.
@@ -215,5 +218,6 @@ Machine learning pipeline for identifying suspicious financial transaction patte
 
 ---
 
-### “Designing intelligent systems that create measurable real-world impact.”
+### Thanks for visiting my profile ❤️
+
 ```
