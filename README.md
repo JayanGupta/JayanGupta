@@ -210,14 +210,8 @@ Machine learning pipeline for identifying suspicious financial transaction patte
   <a href="mailto:jayangupta455@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://www.geeksforgeeks.org/user/jayangupta/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ### Thanks for visiting my profile ❤️
-
-```
