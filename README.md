@@ -92,7 +92,7 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 # 💼 Professional Experience
 
-## 🟢 Member of Technical Staff – Data Science | GeeksforGeeks
+## Member of Technical Staff – Data Science | GeeksforGeeks
 `March 2025 – Present`
 
 - Built an AI Roadmap Generator using LangChain, Gemini API, and semantic retrieval pipelines for 12,000+ learners.
@@ -102,7 +102,7 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 ---
 
-## 🛡️ Data Scientist | DRDO – Defence Research and Development Organisation
+## Data Scientist | DRDO – Defence Research and Development Organisation
 `February 2025 – March 2025`
 
 - Developed machine learning systems for Chemical, Biological, Radiological, and Nuclear (CBRN) threat detection.
@@ -111,7 +111,7 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 ---
 
-## 📈 Data Scientist | Maxizo Trading LLP
+## Data Scientist | Maxizo Trading LLP
 `September 2024 – February 2025`
 
 - Developed financial forecasting systems using SARIMAX, LSTM, and FinBERT models.
