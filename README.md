@@ -4,7 +4,9 @@
 
 ---
 
-Data Scientist and AI Engineer focused on developing scalable machine learning systems, LLM-powered applications, and intelligent analytics pipelines. Experienced across the complete AI lifecycle — from data engineering and experimentation to deployment and optimization — with work spanning education technology, financial analytics, healthcare AI, and defense research.
+# Overview
+
+Data Scientist and AI Engineer focused on developing scalable machine learning systems, LLM-powered applications, and intelligent analytics pipelines, with work spanning education technology, financial analytics, and defense research.
 
 ---
 
@@ -214,4 +216,6 @@ Machine learning pipeline for identifying suspicious financial transaction patte
 
 ---
 
-### Thanks for visiting my profile ❤️
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+digital+workspace+%E2%9C%A8;Building+AI+systems+that+turn+ideas+into+impact+%F0%9F%9A%80;Always+exploring+the+next+breakthrough+in+AI+%F0%9F%A7%A0" alt="Typing SVG" />
+
+---
