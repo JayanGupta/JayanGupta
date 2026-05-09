@@ -9,7 +9,7 @@
 Data Scientist and AI Engineer focused on developing scalable machine learning systems, LLM-powered applications, and intelligent analytics pipelines, with work spanning education technology, financial analytics, and defense research.
 <p align="left">
   <img src="https://img.shields.io/badge/Hackathons-15%2B-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learners_Mentored-12000%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learners_Mentored-12,000%2B-blue?style=for-the-badge" />
 </p>
 
 ---
