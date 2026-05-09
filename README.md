@@ -197,14 +197,23 @@ Machine learning pipeline for identifying suspicious financial transaction patte
 
 # 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayanGupta&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JayanGupta&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=JayanGupta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+  />
+
+  <img 
+    height="170" 
+    src="https://streak-stats.demolab.com?user=JayanGupta&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanGupta&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanGupta&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
