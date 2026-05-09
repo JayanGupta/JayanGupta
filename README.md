@@ -19,17 +19,26 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experimental%20Design-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge" />
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</p> 
 
 ---
 
 ## Data Science & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,vscode" />
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" 
+  style="width:48px; height:48px;"
+  >
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+    style="width:48px; height:48px;"       
+  />
+  <img src="https://skillicons.dev/icons?i=vscode,sqlite" />
 </p>
 
 <p align="left">
@@ -38,20 +47,23 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ---
 
 ## Machine Learning & Deep Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<p align="left">      
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-189FAD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LightGBM-00ADB5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
@@ -80,14 +92,13 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 ## MLOps & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,gcp" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
 </p>
 
 ---
