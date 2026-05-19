@@ -107,36 +107,6 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 ---
 
-# 💼 Professional Experience
-
-## Member of Technical Staff – Data Science | [GeeksforGeeks](https://www.geeksforgeeks.org/)
-`March 2025 – Present`
-
-- Built an AI Roadmap Generator using LangChain, Gemini API, and semantic retrieval pipelines for 12,000+ learners.
-- Engineered Retrieval-Augmented Generation (RAG) systems using HuggingFace Embeddings and ChromaDB.
-- Automated inference workflows and optimized model-serving pipelines.
-- Mentored 12,000+ students across AI, Data Science, and MLOps domains.
-
----
-
-## Data Scientist | [DRDO – Defence Research and Development Organisation](https://www.drdo.gov.in/)
-`February 2025 – March 2025`
-
-- Developed machine learning systems for Chemical, Biological, Radiological, and Nuclear (CBRN) threat detection.
-- Worked on multi-source sensor fusion and anomaly detection pipelines.
-- Built predictive analytics modules for real-time situational awareness.
-
----
-
-## Data Scientist | [Maxizo Trading LLP](https://maxizotrading.com/)
-`September 2024 – February 2025`
-
-- Developed financial forecasting systems using SARIMAX, LSTM, and FinBERT models.
-- Built end-to-end predictive analytics pipelines for financial trend analysis.
-- Improved feature extraction and signal processing for market prediction systems.
-
----
-
 # 🚀 Featured Projects
 
 ## [AlgoArchitect](https://algoarchitect.onrender.com/)
