@@ -109,6 +109,26 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 # 🚀 Featured Projects
 
+## [DataVerse](https://data-verse-jayan.vercel.app/)
+### Private Learning Platform & AI Roadmap Generator
+
+A private, centralized learning platform serving as an interactive presentation repository, AI-powered career roadmap generator, and autonomous presentation generation engine — built entirely on flat-file storage with no external database.
+
+### Highlights
+- 5-Agent LangGraph pipeline (Researcher → Educator → Coder → Designer → QA Reviewer) that autonomously drafts, codes, and styles interactive HTML presentations from a single topic prompt
+- AI-driven career roadmap wizard using LLM structured outputs to generate 4–5 phase learning paths with tools, projects, and resources
+- Client-side PDF export of the roadmap via `html2canvas` + `jsPDF`
+- HMAC-SHA256 signed session cookies for secure, database-free admin authentication
+- Flat-file JSON catalog architecture with graceful fallbacks for read-only serverless hosts
+
+### Tech Stack
+`Next.js 15` • `React` • `LangChain` • `LangGraph` • `Gemini API` • `HTML5/CSS3`
+
+### Links
+- 🌐 Live Demo: https://data-verse-jayan.vercel.app/
+
+---
+
 ## [AlgoArchitect](https://algoarchitect.onrender.com/)
 ### Universal Code Visualizer & AI Learning Engine
 
