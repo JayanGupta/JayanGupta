@@ -107,7 +107,7 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## [DataVerse](https://data-verse-jayan.vercel.app/)
 ### Private Learning Platform & AI Roadmap Generator
