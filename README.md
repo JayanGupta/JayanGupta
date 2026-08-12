@@ -146,36 +146,6 @@ Transforms source code into interactive visual explanations and AI-generated lea
 
 ---
 
-## ML-Integrated Portable ECG
-### Edge AI Healthcare System
-
-Real-time ECG analysis and arrhythmia detection system deployed on Raspberry Pi hardware.
-
-### Highlights
-- CNN-based ECG classification
-- Edge deployment for low-resource healthcare environments
-- Real-time waveform processing and prediction
-
-### Tech Stack
-`TensorFlow` • `CNNs` • `Raspberry Pi` • `Embedded AI`
-
----
-
-## Anti-Money Laundering (AML) Detection System
-### Financial Anomaly Detection using Machine Learning
-
-Machine learning pipeline for identifying suspicious financial transaction patterns associated with money laundering activities.
-
-### Highlights
-- XGBoost-based anomaly detection system
-- Feature engineering and imbalance handling
-- Risk scoring and fraud-pattern analysis
-
-### Tech Stack
-`XGBoost` • `Pandas` • `Scikit-Learn` • `Jupyter Notebook`
-
----
-
 # 🏆 Achievements
 
 | Achievement | Details |
