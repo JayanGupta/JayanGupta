@@ -26,7 +26,6 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
 </p> 
 
 ---
@@ -146,13 +145,32 @@ Transforms source code into interactive visual explanations and AI-generated lea
 
 ---
 
+## [AutoData](https://github.com/JayanGupta/AutoData)
+### Local-First AI Data Analyst & Interactive Visualization Engine
+
+A self-contained, open-source AI analytics pipeline that lets users upload raw datasets and instantly receive data profiling, dynamic visualizations, automated data cleaning, and natural-language insights directly on their local machine.
+
+### Highlights
+- Welcoming contributions and built for open-source scale
+- Guided data-cleaning studio with fully undoable column operations
+- Automatic data-quality scoring, semantic type inference, and PII detection
+- Local rule-based analytical engine with an optional LLM interface for deeper Q&A
+
+### Tech Stack
+`FastAPI` • `React` • `Next.js` • `pandas` • `Tailwind CSS` • `SQLite`
+
+### Links
+- 🌐 Source Code & Docs: https://github.com/JayanGupta/AutoData
+
+---
+
 # 🏆 Achievements
 
 | Achievement | Details |
 |---|---|
 | 🥇 Hackathon Winner | Won 15+ national & international hackathons |
 | 🎓 Google Certified | Earned multiple professional certifications in AI & Data Science |
-| 👨‍🏫 Mentor & Educator | Guided 12,000+ learners in AI, ML & Data Science |
+| 👨🏫 Mentor & Educator | Guided 12,000+ learners in AI, ML & Data Science |
 | 🛡️ DRDO Contributor | Worked on ML systems for CBRN threat detection |
 
 ---
