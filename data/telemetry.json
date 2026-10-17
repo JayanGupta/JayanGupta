@@ -1,0 +1,34 @@
+{
+  "last_synced_utc": "2026-10-17T09:24:02Z",
+  "huggingface": {
+    "username": "Jayan12321",
+    "spaces_count": 4,
+    "spaces_list": [
+      "Jayan12321/ai-ml-compensation-calculator",
+      "Jayan12321/clinical-heart-risk-calculator",
+      "Jayan12321/financial-fraud-radar",
+      "Jayan12321/dark-pattern-detector"
+    ],
+    "models_count": 2,
+    "datasets_count": 2,
+    "collection": "https://huggingface.co/collections/Jayan12321/applied-ai-and-production-machine-learning-suite-6ad33d2913498dd1cf995f6a"
+  },
+  "kaggle": {
+    "username": "jayangupta00",
+    "competitions": [
+      {
+        "name": "Spaceship Titanic",
+        "score": "0.80219",
+        "metric": "Accuracy (Top 20%)"
+      },
+      {
+        "name": "Titanic",
+        "score": "0.77033",
+        "metric": "Accuracy (5-Fold Stratified Ensemble)"
+      }
+    ],
+    "published_notebooks_count": 7,
+    "published_datasets_count": 3
+  },
+  "system_status": "All AI Services & Inference Spaces Operational (99.9% Uptime)"
+}
