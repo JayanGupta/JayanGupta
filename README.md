@@ -16,21 +16,6 @@ Data Scientist and AI Engineer focused on developing scalable machine learning s
 
 ---
 
-# 🚀 Competitive Machine Learning & Live AI Deployments
-
-| Ecosystem | Benchmark / Space | Core Architecture & Methodology | Live Status / Link |
-| :--- | :--- | :--- | :---: |
-| 🏆 **Kaggle** | **Spaceship Titanic** | 5-Fold Stratified Ensemble (`HistGBM`, `RandomForest`, `ExtraTrees`) | **80.22% Accuracy** [Leaderboard](https://www.kaggle.com/competitions/spaceship-titanic) |
-| 🚢 **Kaggle** | **Titanic Disaster ML** | Feature interactions, Title extraction, Log-Fare imputation | **77.03% Accuracy** [Leaderboard](https://www.kaggle.com/competitions/titanic) |
-| 📚 **Kaggle** | **Flagship ML Suite (7 Kernels)** | Cost-Sensitive Fraud, Clinical SHAP XAI, Energy Time-Series, R Odds Ratios | [Explore Notebooks](https://www.kaggle.com/jayangupta00/code) |
-| 🕵️ **Hugging Face** | **Dark Pattern NLP Triage** | Multi-label classification across 7 deceptive e-commerce taxonomies (from repo) | [Launch App 🚀](https://huggingface.co/spaces/Jayan12321/dark-pattern-detector) |
-| 🛡️ **Hugging Face** | **Financial Fraud Radar** | Real-time transaction triage balancing false negative losses with customer friction | [Launch App 🚀](https://huggingface.co/spaces/Jayan12321/financial-fraud-radar) |
-| 🩺 **Hugging Face** | **Clinical Heart Risk Triage** | Evidence-based cardiac risk estimation with SHAP hemodynamic feature attributions | [Launch App 🚀](https://huggingface.co/spaces/Jayan12321/clinical-heart-risk-calculator) |
-| 💼 **Hugging Face** | **AI/ML Salary Estimator** | Client-side reactive compensation calculator across 5,000+ audited global roles | [Launch App 🚀](https://huggingface.co/spaces/Jayan12321/ai-ml-compensation-calculator) |
-| 🌟 **Suite** | **Enterprise Applied AI Suite** | Curated collection uniting models, telemetry datasets, and interactive spaces | [View Collection](https://huggingface.co/collections/Jayan12321/applied-ai-and-production-machine-learning-suite-6ad33d2913498dd1cf995f6a) |
-
----
-
 # Technical Stack
 
 ## Languages & Core
